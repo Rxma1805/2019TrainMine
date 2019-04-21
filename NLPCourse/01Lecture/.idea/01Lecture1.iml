@@ -5,6 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (01Lecture)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="02Lecture" />
+    <orderEntry type="module" module-name="04lECTURE" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
