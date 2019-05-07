@@ -1,0 +1,108 @@
+[33mcommit 61218e4746ca462ceeeb1f3ace481d9144df9f44[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Tue May 7 20:41:48 2019 +0800
+
+    lesson06
+
+[33mcommit b113009ab61d742d02aba378fb784eb912d144aa[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Tue May 7 20:33:29 2019 +0800
+
+    lesson06
+
+[33mcommit cfa46ba03645530fb47f541a7ae8a2a1fc0b6b64[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Tue May 7 20:23:05 2019 +0800
+
+    lesson06
+
+[33mcommit 365a9199fe40c5c1117dad7f0edfda3f842b9807[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Mon May 6 21:29:33 2019 +0800
+
+    lesson06
+
+[33mcommit da31d2ad1a3e46b4af7ad3999451e237079f8621[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Sun Apr 21 23:06:13 2019 +0800
+
+    lesson03
+
+[33mcommit 2bd5b086895510b8f2f148944a22ce8aa6cbe730[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Wed Apr 17 06:31:49 2019 +0800
+
+    03lecture
+
+[33mcommit cfa70a99774c3996bdd9851f06f8e896f2d2537e[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Sun Apr 14 17:08:43 2019 +0800
+
+    add lesson3
+
+[33mcommit 67ae1a3dbedccd2a21f2769e15a046f15f7adb0e[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Tue Apr 9 22:14:59 2019 +0800
+
+    my exercise preview
+
+[33mcommit 202093ea4828ef28cab97d5f3858c6f46bdcfab8[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Tue Apr 9 22:10:29 2019 +0800
+
+    part1
+
+[33mcommit 6b260a014f4e65d371ceaa5d3af9c9826855bf9a[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Tue Apr 9 22:09:11 2019 +0800
+
+    part1
+
+[33mcommit a3ba2041af189a3ea4cb32dbffd30a3d9a0534ee[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Mon Apr 1 20:19:45 2019 +0800
+
+    dfs bfs
+
+[33mcommit 50e27917bf1a9a6135c28db771944c8a6191c5f6[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Mon Apr 1 15:49:01 2019 +0800
+
+    add old resource
+
+[33mcommit 5b45fd79048a4efa566b7f0dfa3614bcf100c250[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Mon Apr 1 13:16:53 2019 +0800
+
+    test commit name
+
+[33mcommit af7e33d4b78b04d4c3fc7aa7a990a178c1a5a8ee[m
+Author: Maruixiang <571784849@qq.com>
+Date:   Mon Apr 1 11:55:42 2019 +0800
+
+    second submit
+
+[33mcommit b740a6f6f51cd0e25ad26006f1a537973304ed2c[m
+Merge: 9feb64c 1382c1f
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Mon Apr 1 11:28:42 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 9feb64c83eea9026b7bf25d8c96400cd231aa8ff[m
+Author: RuixiangMa <ma.nuc@qq.com>
+Date:   Mon Apr 1 11:23:02 2019 +0800
+
+    20190401
+
+[33mcommit 1382c1f517a46583f8d1a07ad431c933267e2f67[m
+Author: Colt <33243406+Rxma1805@users.noreply.github.com>
+Date:   Mon Apr 1 11:18:14 2019 +0800
+
+    Update README.md
+
+[33mcommit 45d1256c2893f1f64234779c4b75971aff310a9c[m
+Author: Colt <33243406+Rxma1805@users.noreply.github.com>
+Date:   Mon Apr 1 11:17:30 2019 +0800
+
+    Initial commit
